@@ -1,5 +1,5 @@
 "use strict";
-// global variables to be reused all over
+// global variables
 const calcBtn = document.querySelector("#calculate");
 const firstNum = document.querySelector("#firstnumber");
 const secondNum = document.querySelector("#secondnumber");
